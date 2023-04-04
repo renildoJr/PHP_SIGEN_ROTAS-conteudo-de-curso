@@ -10,7 +10,7 @@
 <body>
     <?php include "includes/cabecalho.php" ?>
     <main class="container">
-        Tela inicial
+        <h2>Tela inicial</h2>
     </main>
     <?php include "includes/rodape.php"?>
     <?php include PATH_VIEW."includes/js_config.php"?>
